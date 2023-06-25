@@ -1,1 +1,1 @@
-# Dicrete-Continuous-Time-Markov-Chains
+# Discrete-Continuous-Time-Markov-Chains
